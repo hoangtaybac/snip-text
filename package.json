@@ -1,0 +1,38 @@
+{
+  "name": "snip-text",
+  "version": "1.0.0",
+  "description": "Snip and extract parts from text content. Useful for generating code examples from unit tests.",
+  "author": "BalassaMarton",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BalassaMarton/snip-text.git"
+  },
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^3.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-typescript": "^2.13.6",
+    "mocha": "^3.0.2",
+    "through2": "^2.0.1",
+    "typescript": "^1.8.10"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "snip",
+    "snippet",
+    "example"
+  ]
+}

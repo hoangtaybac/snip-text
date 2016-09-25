@@ -1,0 +1,9 @@
+--- snippet: Lipsum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Maecenas suscipit risus tincidunt lectus pretium, vitae pellentesque eros malesuada.
+--- snippet: Lipsum
+Praesent eget libero sed massa blandit mattis ac et dolor.
+Phasellus eget velit non dui pharetra laoreet.
+--- snip ---
+Etiam sodales velit vitae risus commodo, in sagittis velit gravida.
+Maecenas gravida orci id purus suscipit faucibus.
