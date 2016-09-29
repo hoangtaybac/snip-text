@@ -119,6 +119,10 @@ Praesent eget libero sed massa blandit mattis ac et dolor.
 Phasellus eget velit non dui pharetra laoreet.
 ```
 
+For a complete example on how to use `snip-text` to automatically insert unit-tested code examples into your 
+project documentation (using gulp), see my other project: [SequentialTaskQueue](https://github.com/BalassaMarton/sequential-task-queue),
+and have a look at `gulpfile.js`
+
 ## Using the `snip` function
 
 Pass the text contents as a string to `snip`: 
